@@ -1,7 +1,7 @@
 
 # SlumberSense 
 
-This application reads Apple Halth Data and integrates the Apple HEalth API to track and easily display user sleep data 
+(STILL IN DEVELOPMENT) This application reads Apple Halth Data and integrates the Apple HEalth API to track and easily display user sleep data 
 
 ## 🛠 Skills
 Javascript, Python, & Swift
